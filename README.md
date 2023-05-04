@@ -15,3 +15,4 @@
 * Python : Random Forest, DNN, Auto Encoder
 
 ## 분석 결과
+![image](https://user-images.githubusercontent.com/128488488/236209801-fcc2620e-2465-4ed3-ae75-2f0f607873fb.png)
